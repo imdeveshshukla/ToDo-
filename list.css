@@ -1,0 +1,61 @@
+*{
+    background-color: rgba(184, 129, 184, 0.342);
+}
+#upper{
+    padding: 30px 40px;
+    color: #ffffff;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+#tsk{
+  border: none;
+  text-align: center;
+  background-color: #d9d9d9;
+  border-radius: 5px;
+  width: 60%;
+  padding: 10px;
+  font-size: 16px;
+}
+.addBtn{
+    padding: 1.5%;
+  width: 20%;
+  background: #d9d9d9;
+  color: #555;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.addBtn:hover{
+    background-color: rgba(184, 129, 184, 0.342);
+}
+ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style the list items */
+ul li {
+    cursor: pointer;
+    /* position: relative; */
+    margin: 5px 0px;
+    padding: 12px 8px 12px 40px;
+    background: #eee;
+    border-radius: 5px;
+    font-size: 18px;    
+}
+.delBtn{
+    background: #d9d9d9;
+    color: #555;
+    cursor: pointer;
+    /* position: absolute;
+    right: 0px; */
+    border-radius: 5px;
+    margin: 0% 0% 0% 2%;
+    padding: .5% 5% .5% 5%;
+}
+.delBtn:hover{
+    background-color: rgba(184, 129, 184, 0.342);
+}
